@@ -1,0 +1,15 @@
+# Ignore __pycache__ directories
+__pycache__/
+
+# Ignore the env directory
+env/
+
+# Ignore specific Python cache files
+*.py[cod]
+*$py.class
+
+# Ignore other specific files
+*.cpython-*.pyc
+*.pyc
+*.pyo
+*.pyd
